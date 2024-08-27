@@ -8,7 +8,7 @@ const page = () => {
         <div className="pt-6 md:p-40 text-center md:text-left space-y-2">
           <blockquote>
             <p className="text-lg font-large">
-              “ Aslam_ul_Alikum. I am Hassan.I am a student. I am learned AI course. And grow up in the country ,.”
+              “ Aslam_ul_Alikum. I am Hassan.I am a student. I am learn AI course. And I want to became an expert of AI ,.”
             </p>
           </blockquote>
           <figcaption className="font-medium">
